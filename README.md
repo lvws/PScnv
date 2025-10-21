@@ -7,7 +7,7 @@ It leverages a baseline reference built from healthy control samples to improve 
 
 ## ✨ Features
 
-- Uses **50+ healthy control samples** as a baseline reference.
+- Uses **1000 healthy control samples** as a baseline reference.
 - Identifies the **most stable chromosome** in each test sample for self-normalization.
 - Reduces experimental noise and batch effects by leveraging baseline stability.
 - Works with **WGS, WES, and targeted panel sequencing** data.
